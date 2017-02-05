@@ -1,0 +1,14 @@
+{
+    "name": "hello/message-package",
+    "description": "dev",
+    "type": "laravel",
+    "license": "ohno",
+    "authors": [
+        {
+            "name": "chiragghevariya",
+            "email": "gcb1196@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
